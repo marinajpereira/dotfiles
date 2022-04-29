@@ -1,6 +1,8 @@
 source ~/.bashrc.bastion.sh
 source ~/.nvm/nvm.sh
 ssh-add ~/.ssh/google_compute_engine
+export CLICOLOR=1
+export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
 # The next line updates PATH for the Google Cloud SDK.
 if [ -f '/Users/marina/google-cloud-sdk/path.bash.inc' ]; then . '/Users/marina/google-cloud-sdk/path.bash.inc'; fi
 
