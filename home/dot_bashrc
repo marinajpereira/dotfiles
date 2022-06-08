@@ -8,3 +8,5 @@ export NVM_DIR="$HOME/.nvm"
 
 # Created by `pipx` on 2022-03-25 03:23:33
 export PATH="$PATH:/Users/marina/.local/bin"
+
+alias docker-compose="docker compose"
