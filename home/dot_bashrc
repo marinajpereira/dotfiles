@@ -10,3 +10,4 @@ export NVM_DIR="$HOME/.nvm"
 export PATH="$PATH:/Users/marina/.local/bin"
 
 alias docker-compose="docker compose"
+export DOCKER_SCAN_SUGGEST="false"

@@ -13,3 +13,4 @@ if [ -f '/Users/marina/google-cloud-sdk/completion.bash.inc' ]; then . '/Users/m
 export PATH="$PATH:/Users/marina/.local/bin"
 
 alias docker-compose="docker compose"
+export DOCKER_SCAN_SUGGEST="false"
